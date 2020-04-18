@@ -7,4 +7,4 @@ AppCenter CI Integration Sample
 *Udemy Course: Learn Programming Academy*
 
 AppCenter Badge:
-https://build.appcenter.ms/v0.1/apps/8df58449-5a47-4fed-bed5-cf0c0e19e96b/branches/dev/badge
+[![Build status](https://build.appcenter.ms/v0.1/apps/736a2f3d-79cb-4773-b118-d78cfb97b1ba/branches/dev/badge)](https://appcenter.ms)
