@@ -6,8 +6,28 @@
 	<dict>
 		<key>ExampleiOS.xcscheme_^#shared#^_</key>
 		<dict>
+			<key>isShown</key>
+			<true/>
 			<key>orderHint</key>
 			<integer>4</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>6555D830244AE9720017B75E</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>6555D844244AE9740017B75E</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>6555D84F244AE9750017B75E</key>
+		<dict>
+			<key>primary</key>
+			<true/>
 		</dict>
 	</dict>
 </dict>
