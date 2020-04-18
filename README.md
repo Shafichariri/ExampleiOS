@@ -12,3 +12,5 @@ DEV: [![Build status](https://build.appcenter.ms/v0.1/apps/736a2f3d-79cb-4773-b1
 
 
 TEST: [![Build status](https://build.appcenter.ms/v0.1/apps/736a2f3d-79cb-4773-b118-d78cfb97b1ba/branches/test/badge)](https://appcenter.ms)
+
+MASTER: [![Build status](https://build.appcenter.ms/v0.1/apps/736a2f3d-79cb-4773-b118-d78cfb97b1ba/branches/master/badge)](https://appcenter.ms)
