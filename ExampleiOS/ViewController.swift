@@ -11,8 +11,13 @@ import AppCenterCrashes
 
 class ViewController: UIViewController {
 
+    @IBOutlet weak var topLabel: UILabel!
+    
     override func viewDidLoad() {
         super.viewDidLoad()
+        
+        topLabel.text = "Feature 1"
+        
         // Do any additional setup after loading the view.
         DispatchQueue.main.asyncAfter(deadline: .now() + 2) {
            // MSCrashes.generateTestCrash()
