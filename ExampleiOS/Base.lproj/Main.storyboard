@@ -24,11 +24,20 @@
                                 <nil key="textColor"/>
                                 <nil key="highlightedColor"/>
                             </label>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="TNE-J1-e5I">
+                                <rect key="frame" x="40" y="185" width="334" height="21"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
                         </subviews>
                         <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                         <constraints>
                             <constraint firstItem="I9j-Ru-1xc" firstAttribute="top" secondItem="6Tk-OE-BBY" secondAttribute="top" constant="80" id="6LX-Y5-PuB"/>
+                            <constraint firstItem="TNE-J1-e5I" firstAttribute="top" secondItem="I9j-Ru-1xc" secondAttribute="bottom" constant="40" id="TgR-qz-cjF"/>
+                            <constraint firstItem="TNE-J1-e5I" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="40" id="ffG-Eq-KLK"/>
                             <constraint firstItem="I9j-Ru-1xc" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="24" id="g0k-07-Rdp"/>
+                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="TNE-J1-e5I" secondAttribute="trailing" constant="40" id="q54-EH-qIM"/>
                             <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="I9j-Ru-1xc" secondAttribute="trailing" constant="24" id="yNw-2X-cSL"/>
                         </constraints>
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
